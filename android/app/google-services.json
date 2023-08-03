@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641806478624",
+    "firebase_url": "https://amst-flutter-db-2d0ea-default-rtdb.firebaseio.com",
+    "project_id": "amst-flutter-db-2d0ea",
+    "storage_bucket": "amst-flutter-db-2d0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641806478624:android:7fca3e076f8d04810c7b45",
+        "android_client_info": {
+          "package_name": "com.example.app_flutter_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641806478624-r5b82t49q3jjjfv48rgfml3338c8psp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAvhtOz_IEcbp-Y02GdaNeID1gKcQvnw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641806478624-r5b82t49q3jjjfv48rgfml3338c8psp9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641806478624-3dj48uct22uklb1mval3em9eebcji39m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appFlutterDb.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
